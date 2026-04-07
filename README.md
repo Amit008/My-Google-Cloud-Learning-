@@ -7,11 +7,11 @@ Build and deploy real workloads
 
 🗓️ Week 1 — Foundations & Core Infrastructure
  GCP global infrastructure (regions, zones)
- Creating Projects, 
- billing,
- quotas
- IAM (Identity & Access Management)
- Core compute
+1. Creating Projects, 
+2. billing,
+3. quotas
+4. IAM (Identity & Access Management)
+5. Core compute
 
 🧠 Services to Learn
 Google Cloud Console
