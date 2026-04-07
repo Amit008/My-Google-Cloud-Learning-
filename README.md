@@ -7,7 +7,7 @@ Build and deploy real workloads
 
 🗓️ Week 1 — Foundations & Core Infrastructure
  GCP global infrastructure (regions, zones)
-1. Creating Projects, 
+1. Creating Projects 
 2. Billing
 3. Quotas
 4. IAM (Identity & Access Management)
