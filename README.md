@@ -14,10 +14,10 @@ Build and deploy real workloads
 5. Core compute
 
 🧠 Services to Learn
-1.Google Cloud Console
-2.Compute Engine
-3.Identity and Access Management
-4.Cloud Shell
+1. Google Cloud Console
+2. Compute Engine
+3. Identity and Access Management
+4. Cloud Shell
 
 📌 Outcome
 
